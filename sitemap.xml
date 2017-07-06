@@ -672,11 +672,6 @@
     </url>
 
     <url>
-    	<loc>http://tomee.apache.org/admin/cluster/index.html</loc>
-    	<lastmod>2016-03-16</lastmod>
-    </url>
-
-    <url>
     	<loc>http://tomee.apache.org/admin/configuration/application.html</loc>
     	<lastmod>2016-03-16</lastmod>
     </url>
